@@ -1,1 +1,1 @@
-# dataBase
+This is a project for our SQL course. During this course we tried to improve our architecture skill and trained to use sql-queries and learned some subtleties of the sql-language. My theme was the hotel for animals. In this term we will write a web-project using our data-base.
